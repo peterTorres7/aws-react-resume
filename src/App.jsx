@@ -5,6 +5,7 @@ import Skills from './components/Skills'
 import Experience from './components/Experience'
 import Certifications from './components/Certifications'
 import Education from './components/Education'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -26,6 +27,9 @@ function App() {
       </div>
       <div className='Education'>
         <Education />
+      </div>
+      <div className='Footer'>
+        <Footer />
       </div>
     </>
   )
