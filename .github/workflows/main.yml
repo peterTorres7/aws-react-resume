@@ -21,11 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # - name: Build
-      #   run: npm run build
-
       - name: Build
-        run: run vite build
+        run: npm run build
 
       - name: Debug Info
         run: |
