@@ -24,6 +24,11 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Debug Info
+        run: |
+          pwd
+          ls -l
+
       - name: List Contents of Directory
         run: ls -l
         working-directory: dist
