@@ -24,6 +24,10 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: List Contents of Directory
+        run: ls -l
+        working-directory: dist
+
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master
         with:
