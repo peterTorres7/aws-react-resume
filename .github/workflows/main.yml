@@ -25,7 +25,7 @@ jobs:
       #   run: npm run build
 
       - name: Build
-        run: vite build
+        run: run vite build
 
       - name: Debug Info
         run: |
