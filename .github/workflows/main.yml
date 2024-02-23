@@ -34,11 +34,11 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           SOURCE_DIR: 'dist/'
 
-      - name: Invalidate CloudFront Cache
-        uses: jakejarvis/cloudfront-invalidate-action@master
-        with:
-          distribution: 'E2BUJOM76DTH5B'
-          paths: '/*'
+      - name: Invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@v2
         env:
+          DISTRIBUTION: ${{ secrets.CLOUDFRONT_DISTRIBUTION }}
+          PATHS: "/*"
+          AWS_REGION: "us-east-1"
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
