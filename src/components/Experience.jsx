@@ -27,12 +27,6 @@ function Experience() {
                     Contributed to codebase enhancements and feature implementations, focusing on frontend development and user experience.
                 </li>
             </ul>
-            <h3>Android Engineer | African Owned | September 2021 - December 2021</h3>
-            <ul>
-                <li>
-                    Led the development of a mobile application, fostering accessibility and collaboration within a multidisciplinary team.
-                </li>
-            </ul>
         </div>
     )
 }
