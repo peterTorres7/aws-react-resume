@@ -4,7 +4,7 @@ function Skills() {
             <h2>Skills</h2>
             <ul>
                 <li>
-                    Languages/Frameworks: AWS, Java, Python, HTML, CSS, JavaScript, React
+                    Languages/Frameworks: AWS, Java, Python, HTML, CSS, JavaScript, React, Vue
                 </li>
                 <li>
                     Tools: Linux, GitHub, Visual Studio, AWS CLI, PyCharm, Cloud Architecture, MySQL
