@@ -3,9 +3,10 @@ function Summary() {
         <div className="left-align">
             <h2>Summary</h2>
             <p>
-                Software developer with experience using DevOps, frontend, and mobile technologies in a fast-paced environment that requires multitasking and problem-solving. 
-                Love figuring out solutions to ambiguous challenges and seek to continue creating impactful user experiences. 
-                An enthusiastic lifelong learner with a self-starter and growth mindset who enjoys collaborating with team members to solve challenging problems.
+                Experienced software developer in frontend, devops, and cloud development, holding certifications as an AWS Certified Cloud Practitioner 
+                and Solutions Architect Associate. Thrive in fast-paced environments, excelling in multitasking and problem-solving. 
+                Passionate about tackling ambiguous challenges and crafting impactful user experiences. An enthusiastic lifelong learner with a growth mindset, 
+                fostering collaboration to address complex problems.
             </p>
         </div>
     )

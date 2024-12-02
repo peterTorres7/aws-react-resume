@@ -5,8 +5,15 @@ function Experience() {
             <h3>Software Engineer | TD Bank | January 2023 - November 2023</h3>
             <ul>
                 <li>
-                    Developed a modular code scanning script, enhancing code quality and reducing manual configurations, 
-                    displaying adeptness in Python and CLI across diverse OS environments.
+                    Proactively engineered a modular code scanning script that enhanced code quality and swiftly identified vulnerabilities, 
+                    adapting to different project requirements and significantly reducing manual configuration needs.
+                </li>
+                <li>
+                    Facilitated a GitHub workshop for 20 users by setting up access, repositories, and training materials, streamlining team efforts.
+                </li>
+                <li>
+                    Adapted quickly to cross-platform requirements by deploying and configuring build tools, 
+                    ensuring seamless script compatibility across both Windows and Linux environments, which improved the team's ability to work in diverse setups.
                 </li>
             </ul>
             <h3>Technologist | Strategio | November 2022 - January 2023</h3>

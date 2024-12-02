@@ -4,10 +4,10 @@ function Skills() {
             <h2>Skills</h2>
             <ul>
                 <li>
-                    Languages/Frameworks: Java, Python, HTML, CSS, JavaScript, React, SQL
+                    Languages/Frameworks: AWS, Java, Python, HTML, CSS, JavaScript, React
                 </li>
                 <li>
-                    Tools: GitHub, Visual Studio, Android Studio, Eclipse, PyCharm, SonarQube, MySQL, MongoDB, Firebase
+                    Tools: Linux, GitHub, Visual Studio, AWS CLI, PyCharm, Cloud Architecture, MySQL
                 </li>
             </ul>
         </div>
