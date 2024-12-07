@@ -2,7 +2,10 @@ function Projects() {
     return (
         <div className="left-align">
             <h2>Projects</h2>
-            <h3>AWS Resume Challenge | December 2024</h3>
+            <h3>AWS Resume Challenge | 
+                <a href='https://www.petertorres.link' target="_blank" rel="noopener noreferrer"> petertorres.link</a> | 
+                December 2024
+            </h3>
             <ul>
                 <li>Built and deployed a serverless web application using S3 for static website hosting, CloudFront for content delivery, 
                     and Route 53 for custom domain management.
