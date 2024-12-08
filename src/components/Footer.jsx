@@ -14,7 +14,7 @@ function Footer() {
             }
         }
     
-        // updateViews();
+        updateViews();
     }, []);
 
     return (
