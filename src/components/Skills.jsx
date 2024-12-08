@@ -1,7 +1,7 @@
 function Skills() {
     return (
         <div className="left-align">
-            <h2>Skills</h2>
+            <h2 className="bottom-margin">Skills</h2>
             <ul>
                 <li>
                     Languages/Frameworks: AWS, Java, Python, HTML, CSS, JavaScript, React, Vue

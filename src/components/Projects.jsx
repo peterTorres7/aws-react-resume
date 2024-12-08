@@ -1,8 +1,8 @@
 function Projects() {
     return (
         <div className="left-align">
-            <h2>Projects</h2>
-            <h3>AWS Resume Challenge | 
+            <h2 className="bottom-margin">Projects</h2>
+            <h3 className="bottom-margin">AWS Resume Challenge | 
                 <a href='https://www.petertorres.link' target="_blank" rel="noopener noreferrer"> petertorres.link</a> | 
                 December 2024
             </h3>
