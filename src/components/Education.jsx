@@ -11,7 +11,7 @@ function Education() {
                     Gained practical experience in cloud deployment, computing, storage, security, and troubleshooting within AWS environments.
                 </li>
             </ul>
-            <h3 className="bottom-margin">AWS Certified Solutions Architect 4/2024</h3>
+            <h3 className="bottom-margin">AWS Certified Solutions Architect | 4/2024</h3>
             <ul>
                 <li>
                     Designed and implemented scalable, secure, and cost-effective cloud solutions leveraging AWS services.
@@ -20,7 +20,7 @@ function Education() {
                     Demonstrated proficiency in architecting for high availability, fault tolerance, and disaster recovery on the AWS platform.
                 </li>
             </ul>
-            <h3 className="bottom-margin">AWS Certified Cloud Practitioner 1/2024</h3>
+            <h3 className="bottom-margin">AWS Certified Cloud Practitioner | 1/2024</h3>
             <ul>
                 <li>
                     Developed a solid understanding of AWS services such as EC2, S3, and RDS.
